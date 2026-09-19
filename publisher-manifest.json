@@ -1,0 +1,115 @@
+{
+  "version": 2,
+  "template_version": "ba56c49d796df3fbd899",
+  "page_size": 20,
+  "site_id": "78e73ece0a1008ace65b50e9",
+  "owner": "fkugcv",
+  "repo": "page-d61cdfefef14c5d9a2f6c250",
+  "title": "森林互联(7KM)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d61cdfefef14c5d9a2f6c250",
+      "a": "森林互联(7KM)",
+      "b": "免费订阅导入",
+      "entity": "森林互联(7KM)",
+      "brand": "森林互联(7KM)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "67f7756b6a903d0676f152bb41de4fdfac2883418c332a7c777d1a98b958adc6",
+      "content": {
+        "primary_entity": "森林互联(7KM)",
+        "keyword1": "森林互联(7KM)",
+        "keyword2": "免费订阅导入",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备系统选择对应客户端，路由器与电视端可参考通用订阅方案。",
+          "AI_CLIENTS_TITLE": "按设备选客户端",
+          "AI_CLOSING_TEXT": "选择适合的设备数与流量套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "选对套餐，轻松配置",
+          "AI_DESCRIPTION": "，提供三档月付与年付套餐，覆盖个人单设备到团队多设备场景，支持主流客户端订阅导入，年付方案比月付更划算。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求和订阅周期三个角度，帮您快速定位合适方案。",
+          "AI_FEATURES_TITLE": "套餐选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备，旗舰版支持 5 台，团队版可满足 20 台设备同时在线。",
+          "AI_FEATURE_TEXT_2": "基础版每月 100GB，旗舰版 300GB，团队版 1000GB，按实际用量选择。",
+          "AI_FEATURE_TEXT_3": "三档套餐均提供年付选项，年付价格比按月支付更节省，适合长期使用。",
+          "AI_FEATURE_TITLE_1": "设备数量",
+          "AI_FEATURE_TITLE_2": "流量需求",
+          "AI_FEATURE_TITLE_3": "订阅周期",
+          "AI_GUIDE_INTRO": "三步完成从选择到配置的流程，具体操作以客户端文档为准。",
+          "AI_GUIDE_TITLE": "配置流程",
+          "AI_HERO_INTRO": "森林互联(7KM)提供多档订阅套餐，覆盖不同设备数量与流量需求，支持主流客户端导入订阅，年付方案更经济。",
+          "AI_HERO_SUBTITLE": "多设备订阅，灵活选套餐",
+          "AI_HIGHLIGHT_1": "三档套餐按需选择",
+          "AI_HIGHLIGHT_2": "支持多设备同时在线",
+          "AI_HIGHLIGHT_3": "年付方案更省费用",
+          "AI_PLANS_INTRO": "基础版适合轻度使用，旗舰版适合多设备与流媒体，团队版面向多人和高流量场景。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据常用设备数量与每月流量，从基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TEXT_2": "确认设备系统与客户端类型，查看对应订阅配置要求，确保系统版本匹配。",
+          "AI_STEP_TEXT_3": "获取订阅链接后，按客户端文档指引完成导入，即可在设备上使用。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TITLE_3": "导入订阅",
+          "AI_VISUAL_TITLE": "森林互联(7KM) 订阅配置",
+          "AI_FAQ_ANSWER_1": "基础版支持3台设备同时在线，适合手机或电脑单人多设备使用。旗舰版支持5台，团队版支持20台，多设备家庭或办公环境建议选更高档位。",
+          "AI_FAQ_ANSWER_2": "可以。按年付只需支付十个月费用，基础版¥150/年，旗舰版¥350/年，团队版¥850/年，比按月购买更划算。",
+          "AI_FAQ_ANSWER_3": "基础版提供普通线路节点，旗舰版包含全节点原生流媒体解锁与IPLC专线游戏加速优化，团队版使用VIP专属高带宽节点。",
+          "AI_FAQ_ANSWER_4": "先确认设备数量与月流量需求，再参照客户端文档下载对应版本，导入订阅后即可连接使用，无需额外配置。",
+          "AI_FAQ_ANSWER_5": "7KM支持7x24优先工单支持，旗舰版与团队版可优先响应，团队版还配有专属客户经理跟进需求。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "一个套餐可以几台设备同时使用？",
+          "AI_FAQ_QUESTION_2": "按年付和按月付费用有区别吗？",
+          "AI_FAQ_QUESTION_3": "不同套餐的节点线路有什么不同？",
+          "AI_FAQ_QUESTION_4": "第一次使用需要做什么准备？",
+          "AI_FAQ_QUESTION_5": "遇到问题怎么获得支持？",
+          "AI_FAQ_TITLE": "常见问题"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "file_hashes": {
+    "index.html": "32ccd529c65fa5459c56583ee431091db9307fe0227c7ee366afa75559d0f6a3",
+    "sitemap.xml": "4e18cb24826964ea8c63285c68efb7d97dbbb460f07c0f05d6dfe0b17a4257d4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126"
+  },
+  "revision": "2e9b59e70a1f19ac8f6d7800f2f627758a297c3d1d30506469c0ee74df691623"
+}
